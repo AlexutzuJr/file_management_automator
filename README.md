@@ -15,7 +15,7 @@ In this project, we aim to automate the organization of files into categorized d
 
 To follow this project, we will need to install the following locally:
 
-* Python 3.8+
+* Python 
 * Python packages
     * watchdog
     * logging
